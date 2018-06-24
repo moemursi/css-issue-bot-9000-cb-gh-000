@@ -7,7 +7,7 @@ Although today's browsers are becoming more capable of accommodating for errors 
 ## Objectives 
 1. Change invalid CSS to valid CSS
 
-## Change Invalid CSS to Valid CSS
+## Change Invalid CSS to Vaddlid CSS
 
 ## Steps 
 In this lesson, we will be taking the invalid CSS in `css/style.css` and changing it to be valid.
